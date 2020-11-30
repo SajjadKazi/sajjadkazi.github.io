@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <code>My name is SajjadKazi, and I'm going to master React!</code> 
+        <code>My name is Sajjad Kazi and I'm going to master React!</code> 
         
         </p>
         <a
@@ -18,7 +18,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Check Me Out!
-          
+          This is a test to check Devlopment Branch!
         </a>
       </header>
     </div>
